@@ -11,4 +11,4 @@ I'm a freelance software developer from Germany.
 
 ### Github Stats
 
-[![Jens' Github Stats](https://github-readme-stats.vercel.app/api?username=devj3ns&count_private=true&theme=default&show_icons=true)](https://github.com/devj3ns)
+[![Jens' Github Stats](https://github-readme-stats.vercel.app/api?username=devj3ns&count_private=true&theme=default&show_icons=true&hide_title=true)](https://github.com/devj3ns)
