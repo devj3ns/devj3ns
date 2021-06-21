@@ -3,7 +3,7 @@
 I'm a freelance software developer from Germany. 
 
 
-- 🔭 I’m currently working on some projects for clients with [Flutter](https://flutter.dev) and [Django](https://www.djangoproject.com/)
+- 🔭 I’m currently mostly working on (my) open-source projects :)
 - 👨‍💻  I am the creator of the [isoweek](https://pub.dev/packages/isoweek) and [fleasy](https://pub.dev/packages/fleasy) Flutter package.
 - 👨‍💻  I maintain the [contained_tab_bar_view](https://pub.dev/packages/contained_tab_bar_view) and [container_tab_indicator](https://pub.dev/packages/container_tab_indicator) Flutter package.
 - 🎯 My goal for 2021 is to collaborate on some open source projects
