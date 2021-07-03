@@ -14,3 +14,9 @@ I'm a freelance software developer from Germany.
 ### Github Stats
 
 [![Jens' Github Stats](https://github-readme-stats.vercel.app/api?username=devj3ns&count_private=true&theme=default&show_icons=true&hide_title=true)](https://github.com/devj3ns)
+
+
+If you like my work and want to support me, you can do it here ☺
+<br>
+<a href="https://www.buymeacoffee.com/devj3ns" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px"></a>
+</p>
