@@ -17,6 +17,6 @@ I'm a freelance software developer from Germany.
 
 
 If you like my work and want to support me, you can do it here ☺
-<br>
+<p>
 <a href="https://www.buymeacoffee.com/devj3ns" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px"></a>
 </p>
