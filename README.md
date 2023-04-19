@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-My name is [Jens Becker](https://jensbecker.dev) and I am a freelance software developer from Germany. 
+My name is [Jens Becker](https://jensbecker.dev) and I am a freelance software developer and computer science student from Germany. 
 
 - 🖥️ Check out my website on [jensbecker.dev](https://jensbecker.dev) to learn more about me
 - 🔭 I am currently mostly working on web or app projects with [Next.js](https://nextjs.org) and [Flutter](https://flutter.dev)
 - 👨‍💻 I am the creator of the [isoweek](https://pub.dev/packages/isoweek) and [fleasy](https://pub.dev/packages/fleasy) Flutter package
-- 🎯 My goal for 2022 is to work on many interesting projects and further improve my skills
 - 📫 How to reach me: [Website](https://jensbecker.dev) or [Twitter](https://twitter.com/devj3ns)
 
 --------------------------
