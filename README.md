@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is [Jens Becker](https://jensbecker.dev) and I am a freelance software developer and computer science student from Germany. 
+My name is Jens Becker, and I am the founder and managing director of [JB Software](https://jb-software.dev) 
 
-- 🖥️ Check out my website on [jensbecker.dev](https://jensbecker.dev) to learn more about me
-- 🔭 I am currently mostly working on web or app projects with [Next.js](https://nextjs.org) and [Flutter](https://flutter.dev)
+- 🖥️ Check out the website of my company at [jb-software.dev](https://jb-software.dev)
+- 🔭 I am currently mostly working on web or app client projects with [Next.js](https://nextjs.org) and [Flutter](https://flutter.dev)
 - 👨‍💻 I am the creator of the [isoweek](https://pub.dev/packages/isoweek) and [fleasy](https://pub.dev/packages/fleasy) Flutter package
 - 📫 How to reach me: [Website](https://jensbecker.dev) or [Twitter](https://twitter.com/devj3ns)
 
