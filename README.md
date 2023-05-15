@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Jens Becker, and I am the founder and managing director of [JB Software](https://jb-software.dev) 
+My name is Jens Becker, and I am the founder and managing director of [JHB Software](https://jhb-software.dev) 
 
-- 🖥️ Check out the website of my company at [jb-software.dev](https://jb-software.dev)
+- 🖥️ Check out the website of my company at [jhb-software.dev](https://jhb-software.dev)
 - 🔭 I am currently mostly working on web or app client projects with [Next.js](https://nextjs.org) and [Flutter](https://flutter.dev)
 - 👨‍💻 I am the creator of the [isoweek](https://pub.dev/packages/isoweek) and [fleasy](https://pub.dev/packages/fleasy) Flutter package
-- 📫 How to reach me: [Website](https://jensbecker.dev) or [Twitter](https://twitter.com/devj3ns)
+- 📫 How to reach me: [E-Mail](mailto:info@jhb-software.dev) or [Twitter](https://twitter.com/devj3ns)
 
 --------------------------
 ### Github Stats
